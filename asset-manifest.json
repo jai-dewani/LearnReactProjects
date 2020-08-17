@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.8edcc271.chunk.css",
-    "main.js": "/static/js/main.a8c11d46.chunk.js",
-    "main.js.map": "/static/js/main.a8c11d46.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ccc9e705.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ccc9e705.js.map",
-    "static/js/2.33cc059b.chunk.js": "/static/js/2.33cc059b.chunk.js",
-    "static/js/2.33cc059b.chunk.js.map": "/static/js/2.33cc059b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3d9eff944bafdbaa812511815fb294f5.js": "/precache-manifest.3d9eff944bafdbaa812511815fb294f5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8edcc271.chunk.css.map": "/static/css/main.8edcc271.chunk.css.map",
-    "static/js/2.33cc059b.chunk.js.LICENSE.txt": "/static/js/2.33cc059b.chunk.js.LICENSE.txt",
-    "static/media/click1.wav": "/static/media/click1.7a7930a2.wav",
-    "static/media/click2.wav": "/static/media/click2.fe0ded65.wav"
+    "main.css": "/LearnReactProjects/static/css/main.8edcc271.chunk.css",
+    "main.js": "/LearnReactProjects/static/js/main.1e6c235a.chunk.js",
+    "main.js.map": "/LearnReactProjects/static/js/main.1e6c235a.chunk.js.map",
+    "runtime-main.js": "/LearnReactProjects/static/js/runtime-main.e9118f66.js",
+    "runtime-main.js.map": "/LearnReactProjects/static/js/runtime-main.e9118f66.js.map",
+    "static/js/2.33cc059b.chunk.js": "/LearnReactProjects/static/js/2.33cc059b.chunk.js",
+    "static/js/2.33cc059b.chunk.js.map": "/LearnReactProjects/static/js/2.33cc059b.chunk.js.map",
+    "index.html": "/LearnReactProjects/index.html",
+    "precache-manifest.559a33883bfc69cb1f54c088c02d39ff.js": "/LearnReactProjects/precache-manifest.559a33883bfc69cb1f54c088c02d39ff.js",
+    "service-worker.js": "/LearnReactProjects/service-worker.js",
+    "static/css/main.8edcc271.chunk.css.map": "/LearnReactProjects/static/css/main.8edcc271.chunk.css.map",
+    "static/js/2.33cc059b.chunk.js.LICENSE.txt": "/LearnReactProjects/static/js/2.33cc059b.chunk.js.LICENSE.txt",
+    "static/media/click1.wav": "/LearnReactProjects/static/media/click1.7a7930a2.wav",
+    "static/media/click2.wav": "/LearnReactProjects/static/media/click2.fe0ded65.wav"
   },
   "entrypoints": [
-    "static/js/runtime-main.ccc9e705.js",
+    "static/js/runtime-main.e9118f66.js",
     "static/js/2.33cc059b.chunk.js",
     "static/css/main.8edcc271.chunk.css",
-    "static/js/main.a8c11d46.chunk.js"
+    "static/js/main.1e6c235a.chunk.js"
   ]
 }
