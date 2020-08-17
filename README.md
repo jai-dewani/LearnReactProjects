@@ -1,4 +1,4 @@
-![Ci/CD for React Build](https://github.com/jai-dewani/LearnReactProjects/workflows/Ci/CD%20for%20React%20Build/badge.svg)
+![Ci/CD for React Build](https://github.com/jai-dewani/LearnReactProjects/workflows/Ci/CD%20for%20React%20Build/badge.svg)  
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
